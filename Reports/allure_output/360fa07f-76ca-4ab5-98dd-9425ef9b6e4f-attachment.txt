@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:52 ***************** Test Login Page Title1 ****************
+[32mINFO    [0m root:test_login.py:57 ***************** test_login_page_title1 IS PASSED ****************

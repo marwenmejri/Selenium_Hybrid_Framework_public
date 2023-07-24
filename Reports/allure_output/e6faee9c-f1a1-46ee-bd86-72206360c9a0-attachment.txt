@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_login.py:31 ***************** Test Login ****************
+[32mINFO    [0m root:test_login.py:46 ***************** test_login HAS FAILED ****************

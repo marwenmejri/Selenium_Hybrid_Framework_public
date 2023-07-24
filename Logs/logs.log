@@ -1,0 +1,32 @@
+07-23-2023 12:21:21 PM - test_login - INFO : ***************** Test Login **************** 
+07-23-2023 12:21:22 PM - test_login - INFO : ***************** Test001Login **************** 
+07-23-2023 12:21:22 PM - test_login - INFO : ***************** Test Login Page Title **************** 
+07-23-2023 12:21:22 PM - test_login - INFO : ***************** Test Login1 **************** 
+07-23-2023 12:21:22 PM - test_login - INFO : ***************** Test Login Page Title1 **************** 
+07-23-2023 12:21:24 PM - test_login - INFO : ***************** test_login_page_title IS PASSED **************** 
+07-23-2023 12:21:24 PM - test_login - INFO : ***************** test_login_page_title1 IS PASSED **************** 
+07-23-2023 12:21:31 PM - test_login - INFO : ***************** test_login IS PASSED **************** 
+07-23-2023 12:21:31 PM - test_login - INFO : ***************** test_login1 IS PASSED **************** 
+07-23-2023 12:24:52 PM - test_login - INFO : ***************** Test Login **************** 
+07-23-2023 12:24:52 PM - test_login - INFO : ***************** Test Login Page Title1 **************** 
+07-23-2023 12:24:52 PM - test_login - INFO : ***************** Test Login1 **************** 
+07-23-2023 12:24:52 PM - test_login - INFO : ***************** Test001Login **************** 
+07-23-2023 12:24:52 PM - test_login - INFO : ***************** Test Login Page Title **************** 
+07-23-2023 12:24:53 PM - test_login - INFO : ***************** test_login_page_title1 IS PASSED **************** 
+07-23-2023 12:24:54 PM - test_login - INFO : ***************** test_login_page_title IS PASSED **************** 
+07-23-2023 12:24:59 PM - test_login - INFO : ***************** test_login IS PASSED **************** 
+07-23-2023 12:25:00 PM - test_login - INFO : ***************** test_login1 IS PASSED **************** 
+07-23-2023 12:28:16 PM - test_login - INFO : ***************** Test Login **************** 
+07-23-2023 12:28:16 PM - test_login - INFO : ***************** Test001Login **************** 
+07-23-2023 12:28:16 PM - test_login - INFO : ***************** Test Login Page Title **************** 
+07-23-2023 12:28:16 PM - test_login - INFO : ***************** Test Login Page Title1 **************** 
+07-23-2023 12:28:16 PM - test_login - INFO : ***************** Test Login1 **************** 
+07-23-2023 12:28:18 PM - test_login - INFO : ***************** test_login_page_title IS PASSED **************** 
+07-23-2023 12:28:18 PM - test_login - INFO : ***************** test_login_page_title1 IS PASSED **************** 
+07-23-2023 12:28:21 PM - test_login - INFO : ***************** test_login HAS FAILED **************** 
+07-23-2023 12:28:21 PM - test_login - INFO : ***************** test_login1 HAS FAILED **************** 
+07-23-2023 12:35:01 PM - test_login - INFO : ***************** Test Login **************** 
+07-23-2023 12:35:01 PM - test_login - INFO : ***************** Test001Login **************** 
+07-23-2023 12:35:01 PM - test_login - INFO : ***************** Test Login Page Title **************** 
+07-23-2023 12:35:03 PM - test_login - INFO : ***************** test_login_page_title IS PASSED **************** 
+07-23-2023 12:35:06 PM - test_login - INFO : ***************** test_login HAS FAILED **************** 
